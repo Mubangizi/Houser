@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/actionnotfications" android:title="Notifications" android:icon="@drawable/notification_icon"/>
+    <item
+        android:id="@+id/help"
+        android:title="Help"
+        android:icon="@drawable/help_icon"/>
+    <item android:id="@+id/actionsettings" android:title="Settings"
+        android:icon="@drawable/settings_icon"/>
+    <item android:id="@+id/actionshare" android:title="Share this App"
+        android:icon="@drawable/share_icon"/>
+    <item android:id="@+id/actionlogout" android:title="Logout"/>
+
+</menu>

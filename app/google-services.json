@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "426179165384",
+    "firebase_url": "https://houser-51d85.firebaseio.com",
+    "project_id": "houser-51d85",
+    "storage_bucket": "houser-51d85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426179165384:android:bde7afd4fb08a787",
+        "android_client_info": {
+          "package_name": "com.example.xed.houser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426179165384-abup33dcfc1rs9t9mm51mhunjncg559m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xed.houser",
+            "certificate_hash": "86fce4475d9264aedee41aa97bdb9b82ef092c9c"
+          }
+        },
+        {
+          "client_id": "426179165384-ild13jvulh8c8nmh1b10o4osa95o62p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAue7yUFB-zvduiKTPl9s_f0lui-LG9tME"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426179165384-ild13jvulh8c8nmh1b10o4osa95o62p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
